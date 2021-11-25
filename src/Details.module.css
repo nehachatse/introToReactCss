@@ -1,0 +1,10 @@
+.flex_div {
+  display: flex;
+  font-size: 22px;
+  margin-top: 40px;
+}
+
+.flex_child {
+  flex-basis: 35%;
+  color: gray;
+}
